@@ -1,5 +1,5 @@
 
-# **RSA Code Project**
+# **RSA_code_project**
 
 Progetto sviluppato per implementare l'algoritmo RSA utilizzando Java e il framework Maven. Include funzionalità di crittografia e decrittografia dei messaggi, con un focus su sicurezza e gestione delle chiavi.
 
