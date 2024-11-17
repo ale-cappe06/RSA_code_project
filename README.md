@@ -111,7 +111,6 @@ Questo progetto utilizza le seguenti librerie:
 
 ## **Autori**
 - **Cappelletto Alessandro**
-- **[Inserisci eventuali collaboratori]**
 
 ---
 
